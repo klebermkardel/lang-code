@@ -1,0 +1,62 @@
+/* styles.css */
+body {
+    font-family: 'Fira Code', Consolas, monospace;
+    background-color: #1e1e1e;
+    color: #d4d4d4;
+  }
+  
+  header {
+    border-bottom: 2px solid #333;
+  }
+  
+  header h1 {
+    color: #61dafb;
+  }
+  
+  input::placeholder {
+    color: #999;
+  }
+
+  .text-warning {
+    color: #ffc107;
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  .card {
+    background-color: #252526;
+    border: 1px solid #333;
+    border-radius: 8px;
+    color: #d4d4d4;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+    transition: transform 0.2s ease;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+    border-color: #61dafb;
+  }
+  
+  .card img {
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+    max-height: 100px;
+    object-fit: contain;
+    border-bottom: 1px solid #333;
+    margin-bottom: 10px;
+  }
+  
+  .card-title {
+    color: #61dafb;
+  }
+  
+  footer {
+    border-top: 2px solid #333;
+  }
+  
+  footer p {
+    color: #d4d4d4;
+  }
+  
