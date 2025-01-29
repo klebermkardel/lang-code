@@ -31,7 +31,7 @@ Este projeto é uma aplicação web que exibe um resumo das principais linguagen
 
 Aqui está uma prévia do projeto:
 
-![Screenshot do Projeto](screenshot.png) <!-- Substitua "screenshot.png" pelo nome do arquivo da imagem do seu projeto. -->
+![Screenshot do Projeto](./assets/screenshot.png) <!-- Substitua "screenshot.png" pelo nome do arquivo da imagem do seu projeto. -->
 
 ## Contribuição
 
