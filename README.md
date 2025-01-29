@@ -1,6 +1,6 @@
-# Resumo de Linguagens de Programação
+# LangCode
 
-Este projeto é uma aplicação web que exibe um resumo das principais linguagens de programação, suas características, paradigmas, ano de criação e criadores. A aplicação permite que os usuários pesquisem por linguagens específicas e visualizem as informações em cards interativos.
+O LangCode é uma aplicação web que exibe um resumo das principais linguagens de programação, suas características, paradigmas, ano de criação e criadores. A aplicação permite que os usuários pesquisem por linguagens específicas e visualizem as informações em cards interativos.
 
 ## Funcionalidades
 
