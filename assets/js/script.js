@@ -39,7 +39,8 @@ const languages = [
   { name: "Visual Basic", description: "Muito usada para criação de interfaces gráficas no Windows.", paradigm: "Event-driven", created: "1991", creator: "Microsoft", logo: "https://upload.wikimedia.org/wikipedia/commons/7/78/Microsoft_Visual_Basic_for_Applications_logo.svg" }
 ];
 
-  
+  // Ordenar as linguagens por ordem alfabética
+  languages.sort((a, b) => a.name.localeCompare(b.name));
 
   
   const container = document.getElementById("languages-container");
